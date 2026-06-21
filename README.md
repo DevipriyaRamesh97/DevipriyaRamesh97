@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Full Stack Developer | Java Enthusiast | Problem Solver</h3>
 
 - 🌱 Currently learning **React.js**
-- 💻 Interested in **Web Development**
+- 💻 Interested in **Full Stack Devloper**
 - 🚀 Building projects using **HTML, CSS, JavaScript**
 - 🧠 Solved **90+ LeetCode Problems**
 - 👩‍💻 DSA Lead at **GDGOC, GRTIET**
