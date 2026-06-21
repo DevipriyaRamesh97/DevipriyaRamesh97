@@ -14,7 +14,7 @@ HTML | CSS | JavaScript | Java | Bootstrap | Git | GitHub
 
 ### 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/devipriyaramesh
-- GitHub: github.com/DevipriyaRamesh
+- GitHub: https://github.com/DevipriyaRamesh97
 
 ### 💭 Quote
 *"Don't watch the clock; do what it does. Keep going."*
