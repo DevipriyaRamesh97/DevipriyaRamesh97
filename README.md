@@ -1,7 +1,23 @@
-- 👋 Hi, I’m @DevipriyaRamesh97
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML and css JavaScript 
-- 😄 Pronouns:Don't Watch the clock,do what it does.keep going 
+<h1 align="center">Hi 👋, I'm Devipriya R</h1>
+
+<h3 align="center">Aspiring Full Stack Developer | Java Enthusiast | Problem Solver</h3>
+
+- 🌱 Currently learning **React.js**
+- 💻 Interested in **Web Development**
+- 🚀 Building projects using **HTML, CSS, JavaScript**
+- 🧠 Solved **90+ LeetCode Problems**
+- 👩‍💻 DSA Lead at **GDGOC, GRTIET**
+- 🎯 Goal: Become a Full Stack Developer
+
+### 🛠️ Tech Stack
+HTML | CSS | JavaScript | Java | Bootstrap | Git | GitHub
+
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/devipriyaramesh
+- GitHub: github.com/DevipriyaRamesh
+
+### 💭 Quote
+*"Don't watch the clock; do what it does. Keep going."*
 
 
 
